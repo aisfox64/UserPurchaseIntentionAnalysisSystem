@@ -1,0 +1,100 @@
+UserID,Yearly_avg_view_on_travel_page,preferred_device,total_likes_on_outstation_checkin_given,yearly_avg_Outstation_checkins,member_in_family,preferred_location_type,Yearly_avg_comment_on_travel_page,total_likes_on_outofstation_checkin_received,week_since_last_outstation_checkin,following_company_page,montly_avg_comment_on_company_page,working_flag,travelling_network_rating,Adult_flag,Daily_Avg_mins_spend_on_traveling_page
+1000001,307,iOS and Android,38570,1,2,Financial,94,5993,8,Yes,11,No,1,0,8
+1000002,367,iOS,9765,1,1,Financial,61,5130,1,No,23,Yes,4,1,10
+1000003,277,iOS and Android,48055,1,2,Other,92,2090,6,Yes,15,No,2,0,7
+1000004,247,iOS,48720,1,4,Financial,56,2909,1,Yes,11,No,3,0,8
+1000005,202,iOS and Android,20685,1,1,Medical,40,3468,9,No,12,No,4,1,6
+1000006,240,iOS,35175,1,2,Financial,79,3068,0,No,13,No,3,0,8
+1000007,,iOS and Android,46340,1,Three,Medical,81,2670,4,Yes,20,Yes,1,3,12
+1000008,225,iOS and Android,,24,1,Financial,67,2693,1,No,22,Yes,2,1,1
+1000009,285,iOS,7560,23,3,Financial,44,9526,0,No,21,Yes,2,0,10
+1000010,270,iOS and Android,45465,27,3,,94,5237,6,No,13,No,2,2,17
+1000011,262,iOS and Android,28315,16,3,Medical,84,2426,0,No,13,No,3,1,6
+1000012,217,iOS and Android,5355,15,2,Financial,49,4193,0,Yeso,4,0,10,,
+1000013,232,iOS and Android,23450,26,1,Financial,31,2911,1,No,17,No,4,1,5
+1000014,255,iOS and Android,47110,19,2,Medical,93,2661,0,No,11,No,3,1,3
+1000015,210,iOS and Android,3605,24,3,Financial,50,2028,5,Yes,14,No,2,0,6
+1000016,217,iOS and Android,48615,21,4,Financial,51,9980,1,No,11,No,3,1,10
+1000017,240,iOS and Android,,1,2,Financial,80,3298,0,Yes,12,No,4,2,7
+1000018,165,ANDROID,,16,2,Medical,96,2935,1,Yes,13,No,2,2,1
+1000019,397,iOS and Android,42665,1,4,Financial,78,15427,2,No,16,No,3,0,31
+1000020,285,iOS and Android,12985,1,Three,Financial,45,3944,5,Yes,11,No,3,0,6
+1000021,180,ANDROID,23555,11,2,Other,96,4011,0,No,18,No,4,1,5
+1000022,270,iOS and Android,42630,1,4,Financial,82,3407,7,No,23,Yes,2,0,10
+1000023,255,iOS and Android,14665,1,4,Financial,53,11994,0,No,11,No,3,0,13
+1000024,157,iOS and Android,13685,15,2,Financial,96,1232,1,No,14,No,4,0,0
+1000025,255,iOS and Android,24465,1,1,Medical,83,2960,2,No,11,No,3,0,8
+1000026,397,iOS and Android,44870,1,3,Game,58,19094,4,No,11,No,4,1,26
+1000027,240,iOS,39375,16,1,Financial,72,3919,1,Yes,22,Yes,2,0,10
+1000028,,,24185,1,4,Social media,48,6825,0,No,11,No,4,1,10
+1000029,330,iOS and Android,16695,1,4,Medical,42,10248,3,No,14,No,4,1,24
+1000030,345,iOS and Android,,1,4,Social media,83,18947,3,No,12,No,4,0,22
+1000031,247,iOS and Android,,1,3,Medical,78,2496,4,No,11,No,4,0,7
+1000032,330,iOS and Android,51065,10,4,Other,41,6465,2,Yes,13,No,4,0,9
+1000033,225,iOS and Android,4375,1,2,Medical,83,2206,1,No,13,No,1,0,10
+1000034,292,iOS and Android,31325,1,3,Entertainment,56,2086,3,No,14,No,3,1,19
+1000035,180,iOS and Android,28455,1,3,Medical,61,2293,2,Yes,16,No,1,1,6
+1000036,322,iOS and Android,44555,1,2,Medical,72,2645,1,No,12,No,4,2,6
+1000037,375,iOS and Android,30415,1,2,Social media,86,2683,1,Yes,14,No,3,0,3
+1000038,262,iOS and Android,31150,1,3,Social media,97,2014,1,No,13,No,1,0,2
+1000039,270,iOS and Android,29820,1,4,Financial,82,3419,9,Yes,14,No,4,1,6
+1000040,247,iOS,39935,1,Three,Financial,42,5376,2,No,19,No,1,2,10
+1000041,262,iOS and Android,16240,1,2,Other,75,1951,1,No,12,No,3,1,1
+1000042,202,iOS and Android,43400,1,4,Financial,33,2341,1,No,13,No,4,1,1
+1000043,195,iOS and Android,47495,25,3,Financial,48,2293,1,No,12,No,3,0,1
+1000044,202,iOS,34790,1,3,Financial,37,8726,1,No,15,No,4,0,9
+1000045,225,iOS,25235,1,2,Medical,58,4011,1,No,23,Yes,4,0,12
+1000046,307,iOS and Android,47600,12,3,Entertainment,49,19545,1,No,12,No,4,0,23
+1000047,255,ANDROID,,23,4,Social media,72,4568,0,No,20,Yes,3,0,10
+1000048,277,iOS and Android,,19,2,Financial,73,3022,4,No,21,Yes,1,0,8
+1000049,345,iOS,42385,1,4,Social media,,5772,4,,21,Yes,3,0,14
+1000050,262,iOS and Android,,1,1,Financial,,2269,1,No,19,No,4,0,1
+1000051,360,iOS and Android,,1,2,Financial,98,5381,9,Yes,13,No,4,0,23
+1000052,210,iOS and Android,50190,1,4,Entertainment,50,3441,1,Yes,13,No,3,0,2
+1000053,330,iOS and Android,52080,1,5,Social media,75,5454,5,Yes,21,Yes,3,1,9
+1000054,262,ANDROID,38395,11,2,Medical,79,9884,2,Yes,13,No,3,1,10
+1000055,195,iOS and Android,50505,23,3,Social media,47,4157,7,Yes,19,No,3,1,5
+1000056,247,iOS,18025,1,2,Financial,98,13458,1,Yes,12,No,3,0,15
+1000057,262,iOS,29855,18,5,Financial,71,9069,1,No,22,Yes,4,1,9
+1000058,262,iOS and Android,39970,23,4,Medical,3,4014,3,Yes,15,No,3,1,4
+1000059,232,iOS and Android,22925,1,4,Financial,48,5915,3,No,22,Yes,4,1,10
+1000060,277,,39025,1,4,Financial,51,5993,1,No,18,No,3,1,7
+1000061,240,iOS and Android,14945,1,3,Medical,33,6162,1,Yes,22,Yes,2,1,9
+1000062,285,iOS,22855,29,5,Financial,50,2406,1,No,11,No,4,0,10
+1000063,375,iOS and Android,34615,1,2,Medical,43,18740,5,Yes,12,No,4,1,29
+1000064,,iOS and Android,50225,,Three,Financial,99,7637,7,No,11,No,4,0,28
+1000065,270,iOS and Android,42805,,3,Entertainment,59,10096,1,No,13,No,2,3,17
+1000066,412,iOS and Android,29260,1,3,Medical,33,14756,2,Yes,14,No,3,3,21
+1000067,270,iOS,41825,11,3,Financial,95,6499,1,No,13,No,3,0,6
+1000068,,iOS and Android,46865,1,3,Financial,59,9724,2,No,17,No,3,1,25
+1000069,262,iOS,23240,1,3,Medical,79,2194,4,No,13,No,4,1,5
+1000070,270,iOS and Android,11130,1,3,Medical,79,3388,0,Yes,17,No,1,1,2
+1000071,,iOS,42875,1,1,Financial,57,5473,7,No,11,No,4,0,20
+1000072,217,iOS and Android,46480,1,3,,76,2703,0,No,23,Yes,4,1,6
+1000073,232,iOS and Android,37870,1,4,Medical,87,2501,1,No,17,No,2,0,1
+1000074,240,iOS and Android,19180,1,3,Financial,66,6220,1,No,17,No,2,2,10
+1000075,270,iOS and Android,4620,1,3,Financial,55,3038,3,No,12,No,2,0,5
+1000076,232,iOS and Android,26110,1,4,Financial,61,4424,1,No,23,Yes,4,0,11
+1000077,262,iOS and Android,27160,1,4,Social media,32,4312,0,No,14,No,2,0,16
+1000078,,iOS and Android,6755,1,4,Other,52,13245,4,Yes,14,No,2,0,17
+1000079,277,iOS and Android,13895,1,4,Medical,3,13664,4,No,13,No,1,0,16
+1000080,345,iOS and Android,33075,1,2,Medical,80,5021,8,Yes,22,Yes,4,1,16
+1000081,225,iOS and Android,29820,1,1,Financial,55,5126,1,Yes,12,No,3,2,10
+1000082,262,iOS and Android,42490,1,3,Medical,3,2859,1,No,18,No,1,0,6
+1000083,412,iOS and Android,3885,1,2,Financial,70,10239,3,No,14,No,4,1,24
+1000084,285,ANDROID,20055,1,3,Medical,79,5329,7,Yes,12,No,4,3,17
+1000085,255,iOS and Android,40355,1,2,Medical,94,4325,1,No,15,No,3,0,5
+1000086,,iOS and Android,49000,1,3,Financial,49,7260,4,No,11,No,1,0,37
+1000087,,iOS and Android,18935,1,1,Entertainment,62,2322,3,No,13,No,3,1,3
+1000088,382,iOS and Android,15120,1,4,Financial,96,2075,3,No,23,Yes,2,2,10
+1000089,225,iOS and Android,10080,1,Three,Financial,99,4152,1,No,19,No,1,3,11
+1000090,345,iOS and Android,23415,1,2,Medical,64,9619,1,No,16,No,4,0,9
+1000091,300,iOS,18550,1,4,Financial,78,13503,1,No,22,Yes,4,1,22
+1000092,382,iOS and Android,22120,21,4,Social media,71,5441,0,Yes,22,Yes,4,0,11
+1000093,225,iOS and Android,46690,1,2,Medical,63,5209,1,Yes,12,No,2,3,11
+1000094,345,iOS,22330,1,3,Medical,40,10673,2,Yes,13,No,3,1,21
+1000095,240,iOS and Android,38255,1,4,Medical,87,5010,1,No,16,No,1,0,12
+1000096,405,iOS and Android,42595,1,4,Entertainment,60,13549,9,No,12,No,1,1,16
+1000097,180,iOS and Android,47355,1,2,Other,,4999,0,,21,Yes,1,1,4
+1000098,210,ANDROID,,1,3,Medical,,4221,1,No,15,No,2,0,5
+1000099,435,,23870,10,4,Medical,37,13872,0,No,13,No,3,0,38
